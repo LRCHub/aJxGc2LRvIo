@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ロストエンファウンド",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-01-03T16:41:10.079529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost and Found [ロストエンファウンド]",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/01_Lost_and_Found_[ロストエンファウンド]_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_ロストエンファウンド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロストエンファウンド",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_ロストエンファウンド_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/04_ロストエンファウンド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロストエンファウンド",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_ロストエンファウンド_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/06_ロストエンファウンド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロストエンファウンド",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク",
+      "has_synced": true,
+      "path": "select/07_ロストエンファウンド_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 星乃一歌 & 天馬咲希 & 望月穂波 &...",
+      "artist": "Leo need",
+      "has_synced": true,
+      "path": "select/08_ロストエンファウンド_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&..._Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/09_ロストエンファウンド_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. majiko)",
+      "artist": "有形ランペイジ, majiko",
+      "has_synced": true,
+      "path": "select/10_ロストエンファウンド_(feat._majiko)_有形ランペイジ,_majiko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロストエンファウンド - 2022 Band Remaster ver",
+      "artist": "sasakure.UK, 有形ランペイジ",
+      "has_synced": true,
+      "path": "select/11_ロストエンファウンド_-_2022_Band_Remaster_ver_sasakure.UK,_有形ランペイジ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロストエンファウンド (feat. 初音ミク)",
+      "artist": "sasakure.UK, 初音ミク",
+      "has_synced": true,
+      "path": "select/12_ロストエンファウンド_(feat._初音ミク)_sasakure.UK,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ロストエンファウンド",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/13_ロストエンファウンド_Leo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロストエンファウンド",
+      "artist": "有形ランペイジ feat. majiko",
+      "has_synced": true,
+      "path": "select/14_ロストエンファウンド_有形ランペイジ_feat._majiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロストエンファウンド",
+      "artist": "sasakure.UK Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ロストエンファウンド_sasakure.UK_Feat._初音ミク.txt"
+    }
+  ]
+}
